@@ -1,7 +1,7 @@
 Mini Project Normalization
-Que1)  Normalize the Table into 1 Normal Form (1NF)
+Que1)  Normalize the following Table into 1st Normal Form (1NF)
 
-## Question 1: Normalize the Table into 1 Normal Form (1NF)
+## Question 1: Normalize the following Table into 1st Normal Form (1NF)
 
 | Member_Id | First_Name | Last_Name | Hobbies |
 |-----------|------------|-----------|---------|
@@ -23,7 +23,7 @@ Answer (1NF)
 | 103 | Raj | Kishore | Singing |
 | 103 | Raj | Kishore | Running |
 
-## Question 2: Normalize the Table into Second Normal Form (2NF)
+## Question 2: Normalize the following Table into 2nd Normal Form (2NF)
 
  Given Table
 
@@ -52,7 +52,7 @@ Answer (1NF)
 
 ---
 
-## Question 3: Normalize the Table into Third Normal Form (3NF)
+## Question 3: Normalize the following Table into 3rd Normal Form (3NF)
 
 | Member_Id | First_Name | Last_Name | Sports | Fees |
 |-----------|------------|-----------|--------|------|
