@@ -1,5 +1,5 @@
 Mini Project Normalization
-Que1)  Normalize the following Table into 1st Normal Form (1NF)
+
 
 ## Question 1: Normalize the following Table into 1st Normal Form (1NF)
 
