@@ -110,5 +110,5 @@ Hands on Assignment
 
 | PROJECT_NO | CUSTOMERNAME |
 |------------|--------------|
-| P101 | ABC Ltd |
+| P101 | ABC pvt. Ltd. |
 
