@@ -63,7 +63,7 @@ Hands on Assignment
 
 | ROLLNO | NAME | AGE |
 |--------|------|-----|
-| 1 | Aaliya | 20 |
+| 1 | Anshul | 21 |
 
 ### RESULT Table
 
@@ -75,7 +75,7 @@ Hands on Assignment
 
 | MARKS | GRADE |
 |-------|--------|
-| 95 | A+ |
+| 97 | A+ |
 
 ---
 
