@@ -1,5 +1,6 @@
 # Built-in Functions – Hands-on Assignment
 
+
 ## 1. Write a query to display the current date. Label the column Date.
 
 ```sql
