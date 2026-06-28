@@ -1,4 +1,4 @@
-# Hands-on Assignments - SQL Joins
+# SQL Joins - Hands-on Assignments
 
 ## 1. Natural Join
 **Question:**  
