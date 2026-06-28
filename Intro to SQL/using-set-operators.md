@@ -1,5 +1,6 @@
 # Using the Set Operators – Hands-on Assignment
 
+
 ## 1. Create a matrix query to display the job, the salary for that job based on department number, and the total salary for that job, for departments 10, 20, and 30, giving each column an appropriate heading.
 
 ```sql
