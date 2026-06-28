@@ -1,1 +1,1 @@
-# Wipro_Database Solution Expert_DB_261340097
+# Wipro Database Solution Expert DB_261340097
